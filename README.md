@@ -21,3 +21,23 @@ _Cartoonizer is an application of Digital Image processing that converts Image t
 
 
 ## Installing OpenCV, SKimage, Numpy, Scipy, Matplotlib for Python 3.x on Windows
+### openCV
+```
+$ pip install opencv-python
+```
+### SKimage
+```
+$ pip install skimage
+```
+### Numpy
+```
+$ pip install numpy
+```
+### Scipy
+```
+$ pip install scipy
+```
+### Matplotlib
+```
+$ pip install matplotlib
+```
