@@ -3,7 +3,7 @@
 >[Download the .exe file here](https://drive.google.com/file/d/1m2fUPsGSyzCnyDBplukL1BvaBB0hbk6H/view?usp=sharing)
 
 ## Original Vs Cartoon
-![ORIGINAL AND CARTOON]( img_2.png "Image")
+![ORIGINAL AND CARTOON]( Images/img_2.png "Image")
 
 _Cartoonizer is an application of Digital Image processing that converts Image to Cartoon-like Image. Thanks to [Machine Learning India](https://www.linkedin.com/company/mlindia/) for motivation. The code uses Down sampling and Up sampling using Laplacian Pyramid, Bilateral Filtering, Median Blurring, Adaptive Threshold and Bitwise And._
 
