@@ -10,9 +10,9 @@ _Cartoonizer is an application of Digital Image processing that converts Image t
 ## Involved Image Proccessing Techniques
 
 ### LAPLACIAN PYRAMID
-![laplacian_filter]( images/laplacian_pyramid.png "Image")
+![laplacian_filter]( Images/laplacian_pyramid.png "Image")
 ### BILATERAL FILTER
-![Bilateral filter]( images/laplacian_pyramid.png "Image")
+![Bilateral filter]( Images/bilateral_filter.png "Image")
 
 ## REFERENCES 
 > https://www.wikiwand.com/en/Pyramid_(image_processing)
