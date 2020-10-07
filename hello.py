@@ -1,3 +1,4 @@
+print("cloud")
 print("hello")
 
 print("LINUX")
