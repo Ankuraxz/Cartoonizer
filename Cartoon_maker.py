@@ -1,3 +1,5 @@
+#importing libraries
+
 from cv2 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -53,5 +55,4 @@ while True:
 
 # plt.imsave("./cartoon.png",Cartoon)
 cam.release()
-cv2.destroyAllWindows()	
-
+cv2.destroyAllWindows()
